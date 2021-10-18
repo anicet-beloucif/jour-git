@@ -1,0 +1,21 @@
+.whole {color: #32CD32	;}
+
+        #tableaugit {
+            border-collapse: collapse;
+            text-align: center;
+            border-width:1px; 
+            border-style:solid; 
+            border-color:green;
+            width:50%;
+            }
+        td { 
+            border-collapse: collapse;
+            text-align: center;
+            border-width:1px;
+            border-style:solid; 
+            border-color:green;
+            width:50%;
+            }
+
+#titregit {display: flex;
+            justify-content: center;}
